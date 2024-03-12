@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**c-nnor/c-nnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+- 🎓 Currently a student, studying Software Engineering
+- 💻 Interest in Java, Python and C#
+- 🌐 You can check out my projects and portfolio at [c-nnor.dev](https://c-nnor.dev).
 
-Here are some ideas to get you started:
+👨‍💻 **Tech Stack:**
+- 💡 Java
+- 🐍 Python
+- 🎯 Learning C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **GitHub Stats:**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-nnor&show_icons=true&hide=issues&hide_border=true)
