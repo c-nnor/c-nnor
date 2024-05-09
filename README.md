@@ -10,6 +10,3 @@
 - 🐍 Python
 - 🎯 Learning C#
 
-📈 **GitHub Stats:**
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=c-nnor&show_icons=true&hide=issues&hide_border=true)
