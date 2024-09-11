@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 🚀 **About Me:**
 - 🎓 Student, studying Software Engineering
